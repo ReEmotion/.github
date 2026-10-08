@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">ReEmotion — ahead-of-time PS2 emulation</title>
-  <desc id="desc">ReEmotion explores an independent AOT compiler and PS2 runtime targeting RK3566. A dark banner with a PS2 to AOT to runtime diagram.</desc>
+  <title id="title">ReEmotion — an independent PS2 emulator project</title>
+  <desc id="desc">A dark banner introducing ReEmotion, an independent PlayStation 2 emulator project.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1323"/><stop offset="1" stop-color="#14243b"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64e5c5"/><stop offset="1" stop-color="#72acff"/></linearGradient>
@@ -8,26 +8,7 @@
   </defs>
   <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
   <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
-  <path d="M38 38H106" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <text x="48" y="78" fill="#9fb3c8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="3">INDEPENDENT PS2 EMULATION</text>
-  <text x="45" y="157" fill="#f4f8ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">ReEmotion</text>
-  <text x="49" y="195" fill="#c0cfdf" font-family="DejaVu Sans, Arial, sans-serif" font-size="20">Ahead-of-time translation. A runtime of our own.</text>
-  <rect x="48" y="219" width="88" height="28" rx="14" fill="#64e5c5" fill-opacity=".12" stroke="#64e5c5" stroke-opacity=".3"/>
-  <text x="92" y="238" fill="#84efd3" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" text-anchor="middle">RK3566</text>
-  <text x="154" y="239" fill="#9fb3c8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13">ARCHITECTURE &amp; RESEARCH</text>
-  <g fill="#0d192b" stroke="#3b5872">
-    <rect x="744" y="113" width="104" height="62" rx="12"/>
-    <rect x="879" y="113" width="104" height="62" rx="12" stroke="#64e5c5" stroke-opacity=".65"/>
-    <rect x="1014" y="113" width="138" height="62" rx="12"/>
-  </g>
-  <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M852 144H871M865 138L871 144L865 150"/>
-    <path d="M987 144H1006M1000 138L1006 144L1000 150"/>
-  </g>
-  <g font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle">
-    <text x="796" y="150" fill="#dce6f3">PS2</text>
-    <text x="931" y="150" fill="#84efd3">AOT</text>
-    <text x="1083" y="150" fill="#dce6f3">Runtime</text>
-  </g>
-  <text x="948" y="206" fill="#9fb3c8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle">COMPILE OFFLINE · EXECUTE NATIVELY</text>
+  <rect x="566" y="52" width="68" height="4" rx="2" fill="url(#accent)"/>
+  <text x="600" y="156" fill="#f4f8ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3" text-anchor="middle">ReEmotion</text>
+  <text x="600" y="204" fill="#c0cfdf" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="middle">An independent PlayStation 2 emulator project.</text>
 </svg>
