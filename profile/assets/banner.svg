@@ -1,14 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">ReEmotion — an independent PS2 emulator project</title>
-  <desc id="desc">A dark banner introducing ReEmotion, an independent PlayStation 2 emulator project.</desc>
+  <title id="title">ReEmotion</title>
+  <desc id="desc">A dark banner with the ReEmotion project name.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1323"/><stop offset="1" stop-color="#14243b"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64e5c5"/><stop offset="1" stop-color="#72acff"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9eb9d0" stroke-opacity=".055"/></pattern>
   </defs>
   <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
-  <rect x="566" y="52" width="68" height="4" rx="2" fill="url(#accent)"/>
-  <text x="600" y="156" fill="#f4f8ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3" text-anchor="middle">ReEmotion</text>
-  <text x="600" y="204" fill="#c0cfdf" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="middle">An independent PlayStation 2 emulator project.</text>
+  <text x="600" y="164" fill="#f4f8ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3" text-anchor="middle">ReEmotion</text>
 </svg>
