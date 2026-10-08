@@ -1,0 +1,11 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="ReEmotion" width="1200">
+</p>
+
+<p align="center">
+  <a href="./README.md">English</a> · 简体中文
+</p>
+
+ReEmotion 是一个独立的 PS2 模拟器项目，面向资源受限的 **AArch64 SoC**（例如 **RK3566**）设计。
+
+项目目前处于早期阶段。

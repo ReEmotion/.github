@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">ReEmotion</title>
+  <desc id="desc">A dark banner with the ReEmotion project name.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1323"/><stop offset="1" stop-color="#14243b"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <text x="600" y="164" fill="#f4f8ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3" text-anchor="middle">ReEmotion</text>
+</svg>
